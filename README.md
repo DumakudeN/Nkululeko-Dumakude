@@ -27,7 +27,7 @@ I’m passionate about transforming big data into actionable insights and buildi
 - **Time Series Forecasting** – Forecasted stock prices using Stock Prices Dataset.  
 - **Natural Language Processing (NLP)** – Sentiment classification with Sentiment Dataset.  
 - **Neural Networks** – Built NN models with Iris Dataset and Churn Dataset.
-- 
+  
 ###  End-to-End Data Science Projects
 - **[Crime Forecasting Model](#)** – Predicting South African crime trends using ML + Power BI dashboards.  
 - **[Election Vote Prediction](#)** – Forecasting valid votes per party with 1.2M+ rows processed on Google Colab.  
