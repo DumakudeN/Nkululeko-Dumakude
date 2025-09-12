@@ -17,25 +17,25 @@ I’m passionate about transforming **big data into actionable insights** and bu
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
 ### 🔹 Core Machine Learning Projects  
-- 🕸 **Web Scraping** – Scraped stock prices using `yfinance` and `BeautifulSoup`.  
-- 🧹 **Data Cleaning & Preprocessing** – Worked with a **Churn Dataset** (mixed categorical + numerical features).  
-- 📈 **Exploratory Data Analysis (EDA)** – Performed EDA on the **Iris Dataset**.  
-- 🏡 **Regression** – Predicted house prices using **House Prediction Dataset**.  
-- 🔑 **Classification** – Predicted customer churn using a **Churn Dataset**.  
-- 🎯 **Clustering** – Applied clustering algorithms on the **Iris Dataset**.  
-- ⏳ **Time Series Forecasting** – Forecasted stock prices using **Stock Prices Dataset**.  
-- 💬 **Natural Language Processing (NLP)** – Sentiment classification with **Sentiment Dataset**.  
-- 🤖 **Neural Networks** – Built NN models with **Iris Dataset** and **Churn Dataset**.
+- **Web Scraping** – Scraped stock prices using `yfinance` and `BeautifulSoup`.  
+- **Data Cleaning & Preprocessing** – Worked with a **Churn Dataset** (mixed categorical + numerical features).  
+- **Exploratory Data Analysis (EDA)** – Performed EDA on the **Iris Dataset**.  
+- **Regression** – Predicted house prices using **House Prediction Dataset**.  
+- **Classification** – Predicted customer churn using a **Churn Dataset**.  
+- **Clustering** – Applied clustering algorithms on the **Iris Dataset**.  
+- **Time Series Forecasting** – Forecasted stock prices using **Stock Prices Dataset**.  
+- **Natural Language Processing (NLP)** – Sentiment classification with **Sentiment Dataset**.  
+- **Neural Networks** – Built NN models with **Iris Dataset** and **Churn Dataset**.
 - 
 ### 🔹 End-to-End Data Science Projects
-- 📊 **[Crime Forecasting Model](#)** – Predicting South African crime trends using ML + Power BI dashboards.  
-- 🗳 **[Election Vote Prediction](#)** – Forecasting valid votes per party with 1.2M+ rows processed on Google Colab.  
-- 🏥 **[Hospital Readmission Dashboard](#)** – Power BI project analyzing patient readmissions for healthcare insights.  
-- ⚡ **[Power Automate Workflows](#)** – Automated invoice handling & cloud document management.  
-- 🧠 **[Cancer Cell Classification](#)** – Machine learning model to predict malignant vs. benign tumors.  
+- **[Crime Forecasting Model](#)** – Predicting South African crime trends using ML + Power BI dashboards.  
+- **[Election Vote Prediction](#)** – Forecasting valid votes per party with 1.2M+ rows processed on Google Colab.  
+- **[Hospital Readmission Dashboard](#)** – Power BI project analyzing patient readmissions for healthcare insights.  
+- **[Power Automate Workflows](#)** – Automated invoice handling & cloud document management.  
+- **[Cancer Cell Classification](#)** – Machine learning model to predict malignant vs. benign tumors.  
 
 ---
 
