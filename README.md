@@ -19,7 +19,7 @@ I’m passionate about transforming **big data into actionable insights** and bu
 
 ## Featured Projects  
 
-### 🔹 Core Machine Learning Projects  
+###  Core Machine Learning Projects  
 - **Web Scraping** – Scraped stock prices using `yfinance` and `BeautifulSoup`.  
 - **Data Cleaning & Preprocessing** – Worked with a **Churn Dataset** (mixed categorical + numerical features).  
 - **Exploratory Data Analysis (EDA)** – Performed EDA on the **Iris Dataset**.  
@@ -30,7 +30,7 @@ I’m passionate about transforming **big data into actionable insights** and bu
 - **Natural Language Processing (NLP)** – Sentiment classification with **Sentiment Dataset**.  
 - **Neural Networks** – Built NN models with **Iris Dataset** and **Churn Dataset**.
 - 
-### 🔹 End-to-End Data Science Projects
+###  End-to-End Data Science Projects
 - **[Crime Forecasting Model](#)** – Predicting South African crime trends using ML + Power BI dashboards.  
 - **[Election Vote Prediction](#)** – Forecasting valid votes per party with 1.2M+ rows processed on Google Colab.  
 - **[Hospital Readmission Dashboard](#)** – Power BI project analyzing patient readmissions for healthcare insights.  
