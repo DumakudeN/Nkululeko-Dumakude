@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Nkululeko, and I'm a computer scientist interested in all things Python & Data Science    
+### Hi there 👋, My name is Nkululeko
 
 **Data Scientist | Machine Learning Enthusiast | Analytics Innovator**  
 
