@@ -45,7 +45,7 @@ I’m passionate about transforming big data into actionable insights and buildi
 - Community volunteer at **tech events bridging digital gaps**.  
 - Chess coach & youth leader.  
 
-**Let’s Connect:** [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN/](http://www.linkedin.com/in/nkululeko-dumakude-310676279) | [Email](mailto:nkdumakude@gmail.com)  
+**Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/nkululeko-dumakude-310676279/)| [Email](mailto:nkdumakude@gmail.com)  
 
 ---
 *"Strategizing with data, just like planning every move in chess"*  
